@@ -1,14 +1,14 @@
 {
   "BRAND": "google",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 10 Pro",
-  "PRODUCT": "blazer_beta",
-  "DEVICE": "blazer",
-  "FINGERPRINT": "google/blazer_beta/blazer:17/CP21.260306.017/15063635:user/release-keys",
-  "ID": "CP21.260306.017",
+  "MODEL": "Pixel 9 Pro XL",
+  "PRODUCT": "komodo_beta",
+  "DEVICE": "komodo",
+  "FINGERPRINT": "google/komodo_beta/komodo:17/CP21.260330.008/15199860:user/release-keys",
+  "ID": "CP21.260330.008",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "VERSION:SECURITY_PATCH": "2026-03-05",
-  "VERSION:API_LEVEL": 32,
-  "VERSION:SDK_LEVEL": 32
+  "VERSION:SECURITY_PATCH": "2026-04-05",
+  "VERSION:API_LEVEL": 34,
+  "VERSION:SDK_LEVEL": 34
 }
